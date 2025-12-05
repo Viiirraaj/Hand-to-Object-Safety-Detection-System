@@ -104,7 +104,7 @@ Designed to run smoothly even on basic hardware.
 
 ```
 .
-├── hand_safety.py      # Main code
+├── python hand_track.py      # Main code
 └── README.md           # Documentation
 ```
 
